@@ -1,0 +1,25 @@
+{
+  "name": "230428-cli-interface-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cliInterface.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JseopKim/230428-cli-interface-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JseopKim/230428-cli-interface-test/issues"
+  },
+  "homepage": "https://github.com/JseopKim/230428-cli-interface-test#readme",
+  "dependencies": {
+    "commander": "^10.0.1",
+    "inquirer": "^9.2.0"
+  }
+}
